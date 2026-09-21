@@ -13,13 +13,3 @@ I create solutions that make life simpler, faster, and more efficient.
 Because at the end of the day, if there’s a problem, I’ll find a way to engineer my way through it.</p>
 
 
-## Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadav-satyam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadav-satyam04/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Satyam_yadav_04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F707?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyam-yadav.vercel.app/)
-
-
-
-
